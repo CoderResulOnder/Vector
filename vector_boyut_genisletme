@@ -51,4 +51,4 @@ int main()
 }
 http://users.cis.fiu.edu/~weiss/dsaa_c++3/code/Vector.h
 
-eger artım kat sayısı +1 alınırsa wors case :(n*n+1)/2 olur
+eger boyut doluncaki artım kat sayısı +1 alınırsa wors case :(n*n+1)/2 olur her eklemede  tekrar bi taşıma yapılır 
