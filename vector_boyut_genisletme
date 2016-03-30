@@ -50,3 +50,5 @@ int main()
     return 0;
 }
 http://users.cis.fiu.edu/~weiss/dsaa_c++3/code/Vector.h
+
+eger artım kat sayısı +1 alınırsa wors case :(n*n+1)/2 olur
