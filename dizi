@@ -30,7 +30,7 @@ class dynamicArray{
 
 		cout<<"--yeni kapasite"<<theCapacity<<endl;
 	}
-	int sayaç=0;
+	int sayac=0;
 		private:
 			int theSize;
 			int s;
